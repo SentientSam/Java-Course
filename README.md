@@ -12,3 +12,5 @@ To start off I am using the NetBeans IDE 11.3 with JDK 14 as my development envi
 You an go to https://www.oracle.com/java/technologies/ to see the latest versions of NetBeand and JDK if you wish to use those (all the code should still work)
 
 **Saluton.java:** This file is my "Hello World!" traditional introduction. The only real difference is I output the string in Danish. It shows how to initialize most of the .java files I will be using and some basics of variable assignment / output.
+
+**Root.java:** This file takes the value of a variable of type integer named "number" and calculates the square root. It then posts the result.
